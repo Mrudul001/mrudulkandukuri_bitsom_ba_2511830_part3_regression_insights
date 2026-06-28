@@ -123,14 +123,22 @@ Monthly Sales = 49,912.80
 
 ---
 
-## Screenshots Included
+## Screenshots
 
-| File | Description |
-|---|---|
-| `screenshots/simple_regression_output.png` | Scatter plot and regression table for footfall simple regression |
-| `screenshots/multiple_regression_output.png` | Coefficient plot and full table for multiple regression model |
-| `screenshots/residuals_preview.png` | Actual vs predicted, residual histogram, and top residuals table |
-| `screenshots/model_comparison_preview.png` | R-squared bar chart and comparison table across all 4 models |
+### Simple Regression Output
+![Simple Regression Output](screenshots/simple_regression_output.png)
+*Scatter plot and regression table for the footfall simple regression model (R² = 0.7363)*
 
+### Multiple Regression Output
+![Multiple Regression Output](screenshots/multiple_regression_output.png)
+*Coefficient plot and full output table for the multiple regression model (R² = 0.8321)*
+
+### Residual Analysis
+![Residuals Preview](screenshots/residuals_preview.png)
+*Actual vs predicted sales, residual distribution histogram, and top positive/negative residuals*
+
+### Model Comparison
+![Model Comparison Preview](screenshots/model_comparison_preview.png)
+*R-squared comparison bar chart and summary table across all four regression models*
 ---
 
