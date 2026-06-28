@@ -134,24 +134,3 @@ Monthly Sales = 49,912.80
 
 ---
 
-## Repository Structure
-
-```
-part3_regression_insights/
-├── data/
-│   └── business_regression_data.xlsx       # Original dataset
-├── analysis/
-│   ├── regression_workbook.xlsx             # All regression outputs (8 sheets)
-│   ├── model_comparison.md                  # Detailed model comparison
-│   └── residual_analysis.md                 # Residual analysis and interpretation
-├── outputs/
-│   ├── regression_summary.xlsx              # Clean model comparison table
-│   ├── final_recommendation.md              # Business recommendation
-│   └── model_equations.md                   # All equations with interpretation
-├── screenshots/
-│   ├── simple_regression_output.png
-│   ├── multiple_regression_output.png
-│   ├── residuals_preview.png
-│   └── model_comparison_preview.png
-└── README.md
-```
